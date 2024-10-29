@@ -2,7 +2,7 @@
 
 ## 1. Introduction to OpenCV
 
-- [ipynb notebook: 1. Introduction to OpenCV](./lab1/Podstawy_OpenCV.ipynb)
+- [ipynb notebook: 1. Introduction to OpenCV](./lab1%20-%20introduction%20to%20opencv/Podstawy_OpenCV.ipynb)
 
 ## 2. Image segmentation
 
@@ -15,7 +15,7 @@
 - histogram operations including:
     - histogram equalization 
     - histogram matching
-- [ipynb notebook: 3. Edge detection, histogram operation](./lab3%20-%20edge%20detection,%20histrogram%20operations/lab3.ipynb))
+- [ipynb notebook: 3. Edge detection, histogram operation](./lab3%20-%20edge%20detection,%20histrogram%20operations/lab3.ipynb)
 
 ## 4. Image segmentation with SLIC, superpixels
 
