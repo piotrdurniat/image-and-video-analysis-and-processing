@@ -23,3 +23,7 @@
 - superpixels
 - k-means for clustering superpixels
 - [ipynb notebook: 4. Image segmentation - SLIC, superpixels](./lab4%20-%20image%20segmentation/lab4-image-segmentation.ipynb)
+
+## 5. Hough transform
+
+- [ipynb notebook: 5. Hough transform](./lab5%20-%20hough%20transform/Lab5_zadanie_Hough.ipynb)
