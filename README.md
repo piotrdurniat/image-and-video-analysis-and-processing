@@ -26,4 +26,5 @@
 
 ## 5. Hough transform
 
-- [ipynb notebook: 5. Hough transform](./lab5%20-%20hough%20transform/Lab5_zadanie_Hough.ipynb)
+- [ipynb notebook: 5. Hough transform](./lab5%20-%20hugh%20transform/Lab5_zadanie_Hough.ipynb)
+
