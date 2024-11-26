@@ -24,7 +24,14 @@
 - k-means for clustering superpixels
 - [ipynb notebook: 4. Image segmentation - SLIC, superpixels](./lab4%20-%20image%20segmentation/lab4-image-segmentation.ipynb)
 
-## 5. Hough transform
+## 5. Classic object detection, Hough transform - line and ellipse detection 
 
+- [ipynb notebook: 5. Classic object detection](./lab5%20-%20hugh%20transform/Lab5_zadanie.ipynb)
 - [ipynb notebook: 5. Hough transform](./lab5%20-%20hugh%20transform/Lab5_zadanie_Hough.ipynb)
+
+## 6. Keypoints, Sift
+
+- [ipynb notebook: task 1 - research](./lab6/Lab6_zadania/Lab6.1_zadanie.ipynb)
+- [ipynb notebook: task 2 - implementation](./lab6/Lab6_zadania/Lab6.2_zadanie.ipynb)
+
 
