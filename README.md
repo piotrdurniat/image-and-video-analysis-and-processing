@@ -29,9 +29,19 @@
 - [ipynb notebook: 5. Classic object detection](./lab5%20-%20hugh%20transform/Lab5_zadanie.ipynb)
 - [ipynb notebook: 5. Hough transform](./lab5%20-%20hugh%20transform/Lab5_zadanie_Hough.ipynb)
 
-## 6. Keypoints, Sift
+## 6. Keypoints, SIFT, RANSAC, image stitching
 
-- [ipynb notebook: task 1 - research](./lab6/Lab6_zadania/Lab6.1_zadanie.ipynb)
-- [ipynb notebook: task 2 - implementation](./lab6/Lab6_zadania/Lab6.2_zadanie.ipynb)
+### Task 1 - Research
+- [Notebook: Task 1 - Research](./lab6/Lab6_zadania/Lab6.1_zadanie.ipynb)
+  - **Focus**: Explore SIFT and RANSAC for keypoint detection.
+  - **Key Activities**:
+    - Analyzed effects of `contrastThreshold` and `edgeThreshold` on keypoints.
+    - Utilized OpenCV's SIFT and RANSAC for keypoint matching and visualization.
 
-
+### Task 2 - Implementation
+- [Notebook: Task 2 - Implementation](./lab6/Lab6_zadania/Lab6.2_zadanie.ipynb)
+  - **Focus**: Develop a custom image stitching algorithm using SIFT and RANSAC.
+  - **Key Activities**:
+    - Captured images for stitching.
+    - Implemented keypoint detection, matching, and alignment using SIFT and RANSAC.
+    - Evaluated the custom stitching algorithm
