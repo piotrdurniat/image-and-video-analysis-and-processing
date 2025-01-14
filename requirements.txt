@@ -5,3 +5,7 @@ numpy
 scikit-image
 ipykernel
 ipywidgets
+torch
+torchvision
+torchaudio
+pycocotools
