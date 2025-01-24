@@ -45,3 +45,7 @@
     - Captured images for stitching.
     - Implemented keypoint detection, matching, and alignment using SIFT and RANSAC.
     - Evaluated the custom stitching algorithm
+
+## 7. Object detection with Faster R-CNN
+
+- [Notebook](./lab7/Lab7_zadanie.ipynb)
