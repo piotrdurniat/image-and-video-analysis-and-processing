@@ -1,1 +1,5 @@
 outputs/
+faster_rcnn_source/
+nms_thresh_results.pkl
+score_thresh_results.pkl
+trained_model.pth
