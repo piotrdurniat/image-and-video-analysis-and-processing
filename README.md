@@ -49,3 +49,5 @@
 ## 7. Object detection with Faster R-CNN
 
 - [Notebook](./lab7/Lab7_zadanie.ipynb)
+
+## 8. Optical Flow
